@@ -1,0 +1,50 @@
+* {
+    font-family: 'Baloo Bhai 2', cursive;
+}
+
+.cards-menu {
+    display: flex;
+    content: wrap;
+    height: max-content;
+    cursor: pointer;
+    margin: 10px;
+}
+
+.icon {
+    height: 45px;
+    width: 45px;
+    border-radius: 10px;
+    margin-top: 5px;
+}
+
+h1 {
+    text-align: center;
+    padding: 20px;
+}
+
+.leftdiv {
+    width: 70%;
+    align-content: center;
+    padding: 100px;
+}
+
+.rightdiv {
+    width: 30%;
+    align-content: center;
+    padding: 100px;
+}
+
+.box {
+    display: flex;
+}
+
+.about {
+    background-color: rgba(241, 220, 173, 0.411);
+    padding: 20px;
+}
+
+#ourproducts {
+    background-color: rgba(77, 65, 51, 0.479);
+    height: max-content;
+    padding: 20px;
+}
